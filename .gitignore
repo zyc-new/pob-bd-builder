@@ -1,0 +1,19 @@
+# machine-specific discovery output
+runtime.json
+runtime.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# MCP exports
+mcp/exports/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
